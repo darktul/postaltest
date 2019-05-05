@@ -28,5 +28,5 @@ function sendToLine($message){
 }
 
 sendToLine('ข้อความของคุณ');
-
+echo "Test";
 ?>
